@@ -1,5 +1,5 @@
-# Angular2 Component Generation Extension for Atom
-
+# Angular2 Core Element Generation Extension for Atom
+## IN DEVELOPEMENT: FORKED on 2020/05/23
 ## Description
 Extension automatically creates folder for angular2 component containing :
 - `component.ts`
